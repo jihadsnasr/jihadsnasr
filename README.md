@@ -1,34 +1,25 @@
-# Hi, I'm Jihad Nasr
+<h1 align="center">Hi, I'm Jihad Nasr</h1>
+<p align="center">Business Computing student · exploring <b>Backend</b> & <b>AI/ML</b> · Lebanon 🇱🇧</p>
 
-Business Computing student at the Lebanese University (graduating 2027), exploring **backend development and AI/ML**, mostly in Python.
-I like problems that need logic and patience: data structures, debugging, and building things from scratch until they work.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,c,cs,php,mysql,html,css,express,dotnet,git,vscode&perline=12" />
+</p>
 
-### What I'm doing now
+### 🔭 Now
+- 🧠 AI/ML research: self-supervised models for medical data
+- ⚙️ Backend/AI intern: TypeScript + Python voice AI
 
-- **Backend / AI intern at SleekSyncPOS** (remote, Sep–Dec 2026): TypeScript backend helpers and tests, plus a Python voice-AI caller
-- **AI/ML research at Together For Chehim**: self-supervised (JEPA-based) features combined with an SVM to classify diabetic peripheral neuropathy from plantar-pressure data
-- Building my portfolio at [jihadnasr.com](https://jihadnasr.com)
-
-### Projects
-
-| Project | What it is |
+### 🛠️ Projects
+| | |
 |---|---|
-| [JSN Cube Simulator](https://github.com/jihadsnasr/JSN-Cube-Simulator) | A 3x3 Rubik's cube simulator in C# WinForms, built from scratch |
-| [Imposter-Bits](https://github.com/jihadsnasr/Imposter-Bits) | A steganography tool for hiding data inside images |
-| [125 WinForms Apps](https://github.com/jihadsnasr/Windows-Form-Applications-C-.NET-Framework-Projects) | 125 open-source C# .NET Framework desktop apps |
-| [School Management System](https://github.com/jihadsnasr/School-Management-System---CRUD) | A PHP CRUD app for managing students and classes |
-| [TypeLocal](https://github.com/jihadsnasr/TypeLocal) | A typing speed tester written in C |
+| 🧊 [JSN Cube Simulator](https://github.com/jihadsnasr/JSN-Cube-Simulator) | 3x3 cube simulator in C#, built from scratch |
+| 🕵️ [Imposter-Bits](https://github.com/jihadsnasr/Imposter-Bits) | Hide data inside images |
+| 🪟 [125 WinForms Apps](https://github.com/jihadsnasr/Windows-Form-Applications-C-.NET-Framework-Projects) | 125 C# desktop apps |
+| 🏫 [School Management](https://github.com/jihadsnasr/School-Management-System---CRUD) | PHP CRUD system |
 
-### Tools I use
+### ⚡ Beyond code
+🧊 Sub-10s cuber · 📱 1.6M+ followers · 🛒 [JSN Cubes](https://jsn-cubes.com) · ⌨️ 180 WPM · ♟️ 🏓 🥊
 
-**Languages:** Python · TypeScript · C · C# · SQL · Oracle PL/SQL · PHP
-**Also:** HTML/CSS · Express.js · Git
-
-### Beyond code
-
-I've been speedcubing since I was 13 (3x3 average under 10 seconds) and grew a cubing community of **1.6M+ followers and 750M+ views**, working with brands like MoYu, GAN and QY Toys. I also run [JSN Cubes](https://jsn-cubes.com), a speed cube shop in Lebanon.
-Off the screen: chess, ping pong, boxing, and typing at 100+ WPM (180 WPM best).
-
-### Reach me
-
-📧 jihadsnasr@gmail.com · 🌐 [jihadnasr.com](https://jihadnasr.com)
+<p align="center">
+  <a href="mailto:jihadsnasr@gmail.com">📧 Email</a> · <a href="https://jihadnasr.com">🌐 Portfolio</a>
+</p>
