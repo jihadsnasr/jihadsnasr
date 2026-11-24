@@ -2,7 +2,7 @@
 <p align="center">Business Computing student · exploring <b>Backend</b> & <b>AI/ML</b> · Lebanon 🇱🇧</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,c,cs,php,mysql,html,css,express,dotnet,git,vscode&perline=12" />
+  <img src="https://skillicons.dev/icons?i=py,ts,c,cs,php,mysql,html,css,express,dotnet,git,vim,vscode,visualstudio&perline=7" />
 </p>
 
 ### 🔭 Now
